@@ -1,0 +1,8 @@
+{
+  "name": "com.cgbecker.external.assets",
+  "description": "Package contains non-unity assets to be used in unity",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "displayName": "Non-Unity External Assets",
+  "dependencies": {}
+}
