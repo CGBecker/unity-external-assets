@@ -1,0 +1,16 @@
+# Git Attributes File for Unity External Assets
+
+# Macros
+[attr]macro_lfs filter=lfs diff=lfs merge=lfs
+
+# 3D Files
+*.fbx macro_lfs
+*.blend macro_lfs
+*.obj macro_lfs
+
+# Textures and images files
+*.jpg macro_lfs
+*.png macro_lfs
+
+# Text files
+*.meta macro_lfs -text
